@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    position:absolute;
+    top:25%;
+    left: 30%;
+    width:700px;
+}
+   
+   .form{
+    background-color: rgb(236,239,236);
+    height: 500px;
+    width:400px;
+   }
+   .ftext{
+    width:500px;
+   }
+   .btn-sign{
+    font-weight:10px;
+    background-color: rgb(38, 135, 38);
+    color:white;
+   }
+   .btn-sign:hover{
+     
+    background-color: rgb(181, 246, 181);
+   }
